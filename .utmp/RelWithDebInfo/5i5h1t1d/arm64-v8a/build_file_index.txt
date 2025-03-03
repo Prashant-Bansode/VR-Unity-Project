@@ -1,0 +1,2 @@
+P:\Unity\Unity Project\VR Test (Atina Tech Pvt. Ltd)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+P:\Unity\Unity Project\VR Test (Atina Tech Pvt. Ltd)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
